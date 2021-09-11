@@ -1,8 +1,6 @@
 merhaba
 merhaba selooo
 test
-<<<<<<< HEAD
 cakisma olacak
-=======
 deneme remote
->>>>>>> 853a22e0b14508d4c7bf986ee6be2c9418b0202d
+
