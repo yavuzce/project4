@@ -3,6 +3,10 @@ merhaba selooo
 test
 cakisma olacak
 deneme remote
+<<<<<<< HEAD
 aaaaaaaaaaaa
 AAAAAAAAAAAAAAAAAA
 asdasdasda
+
+asdasdasd
+
